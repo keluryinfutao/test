@@ -1,4 +1,4 @@
-gitbook
+gitbook1
 ======
 
 This is a simple template shows how to quickly start a   [GitBook](https://www.gitbook.io)
